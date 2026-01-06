@@ -1,2 +1,2 @@
-a= "bye"
+a= "afternoon"
 print(a)
